@@ -1,11 +1,11 @@
-# passhash 🔐
+# passhash 
 
 Herramienta simple en Python para hashear y verificar contraseñas usando PBKDF2-HMAC con SHA-256.  
 No requiere librerías externas (usa solo la biblioteca estándar de Python).
 
 ---
 
-## 🚀 Uso
+## Uso
 
 ### Generar un hash
 ```bash
