@@ -11,6 +11,10 @@ No requiere librerías externas (usa solo la biblioteca estándar de Python).
 ```bash
 python passhash.py hash
 ```
+### Verificar un hash
+```
+python passhash.py verify
+```
 
 # Por qué hashear contraseñas y no encriptarlas ?
 
