@@ -13,7 +13,7 @@ python passhash.py hash
 ```
 ### Verificar un hash
 ```
-python passhash.py verify
+python passhash.py verify '(tu hash)'
 ```
 
 # Por qué hashear contraseñas y no encriptarlas ?
